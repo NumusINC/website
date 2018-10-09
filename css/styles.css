@@ -2,12 +2,14 @@
 
 .placeholder{
     width: 100%;
+    text-align: center;
 }
 
 .placeholder img {
     display: block;
     margin: 250px auto 0 auto;
     height: 50%;
+
 }
 
 body{
